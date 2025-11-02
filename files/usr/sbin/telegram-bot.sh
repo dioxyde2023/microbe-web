@@ -279,6 +279,7 @@ while [ true ]; do
 								fi
 							fi
 						fi
+					fi	
 				done
 				IFS=$IFS_ORIG
 
